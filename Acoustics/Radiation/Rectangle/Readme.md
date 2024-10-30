@@ -1,6 +1,6 @@
 The following derivation follows Mechel's approach with some of my own tweaking to the final implementation. Given a rectangular element placed in a hard baffle wall with an obliquely incident plane wave moving towards the surface, the term field excited refers to a vibration pattern set in motion by a wave propagating towards the opening.
 
-![Alt text](relative%20path/to/img.jpg?raw=true "illustration")
+![Alt text](relative%img.jpg?raw=true "illustration")
 
 The object here is a rectangle A with side lengths a and b on a hard baffle wall. The recatangle is excited by a plan wave with a polar incident angle of $\theta$ and an azimuthal angle of $\phi$. The average velocity pattern on the surface is:
 
